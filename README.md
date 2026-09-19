@@ -45,7 +45,4 @@ Data Science specialization · Third year · Expected graduation 2028
 
 [GitHub](https://github.com/pqun7) · [LinkedIn](https://www.linkedin.com/in/pqun/) · [Email](mailto:alinazer30@gmail.com)
 
----
-
-This portfolio intentionally includes only work and skills that I can explain and defend. See [MAINTENANCE.md](MAINTENANCE.md) for the update process used as new projects and verified credentials are completed.
 
